@@ -1,0 +1,6 @@
+{
+    {id:1, image:"/image3.svg", name:"Puxada Frontal", rep:"3 series x 12 repeticiones"},
+    {id:2, image:"/image.svg", name:"Remada curva", rep:"3 series x 12 repeticiones"},
+    {id:3, image:"/image1.svg", name:"Remada Lateral", rep:"3 series x 12 repeticiones"},
+    {id:4, image:"/image2.svg", name:"Puxada Trasé y Trasí", rep:"3 series x 12 repeticiones"},
+}
