@@ -1,0 +1,25 @@
+.user-profile{
+    display: flex;
+}
+
+.user-profile img{
+    border-radius: 50%;
+    margin-right: 24px;
+}
+
+.user-details{
+    display: flex;
+    flex-direction: column;
+    font-family: 'Barlow Semi Condensed';
+    font-weight: 500;
+    justify-content: center;
+}
+
+.user-details :nth-child(1){
+    font-weight: 600;
+}
+
+.user-details :nth-child(2){
+    font-weight: 600;
+    opacity: 50%;
+}
